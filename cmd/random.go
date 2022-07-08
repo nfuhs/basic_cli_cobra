@@ -30,8 +30,7 @@ var randomCmd = &cobra.Command{
 	Short: "Get a random dad joke",
 	Long:  `This command fetches a random dad joke from the icanhazdadjoke api`,
 	Run: func(cmd *cobra.Command, args []string) {
-		// TODO: Work your own magic here
-		fmt.Println("random called")
+		getRandomJoke()
 	},
 }
 
