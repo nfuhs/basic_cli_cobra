@@ -1,4 +1,4 @@
-# basic_cli_cobra
+# Basic CLI in Cobra
 Building an basic CLI tool with Cobra
 
 # Dadjoke CLI Tool
